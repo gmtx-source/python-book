@@ -1,0 +1,1 @@
+print('5' + '10') #Concatenates '5' and '10' printing '510' because it is a string.
